@@ -5,11 +5,11 @@
 
 （优酷 5.11
 搜狐 6.0
-腾讯 5.6.3
+腾讯 5.8.5
 芒果 5.5.0
 乐视 7.6
 爱奇艺暂时无解）
 
 https://raw.githubusercontent.com/frankmumu/mumuad/master/noad.conf
 
-2017/11/18
+2017/11/19
